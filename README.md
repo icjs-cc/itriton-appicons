@@ -27,4 +27,4 @@ modify the file `png2icons/lib/UPNG.js` in `node_modules`
 
 - https://github.com/idesis-gmbh/png2icons
 - https://github.com/feross/buffer
-- https://github.com/ltaoo/ITRITON APPICONS
+- https://github.com/ltaoo/AppIconsHelper
