@@ -28,7 +28,7 @@ export const TabHeader = (props: { store: TabHeaderCore<any> }) => {
       }}
     >
       <div
-        class="tabs-wrapper relative"
+        class="tabs-wrapper relative z-10"
         // scroll-with-animation="{{scrollWithAnimation}}"
         // scroll-left="{{scrollLeftInset}}"
         // scroll-x
